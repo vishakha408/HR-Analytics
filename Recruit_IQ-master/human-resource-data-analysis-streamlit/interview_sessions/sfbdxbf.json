@@ -1,0 +1,77 @@
+{
+  "name": "sfbdxbf",
+  "date": "2025-11-20",
+  "interviewer": "fsbdfb",
+  "notes": "sfb",
+  "created_at": "2025-11-20T20:22:11.320850",
+  "candidates": [
+    {
+      "id": "fbdx",
+      "candidate_id": "fbdx",
+      "roll": "fbdx",
+      "name": "fbdfxb",
+      "email": "fbdbf",
+      "role": "sfbd",
+      "position": "sfbd",
+      "experience_years": 0.0,
+      "phone": "",
+      "notes": "sfb",
+      "added_at": "2025-11-20T20:22:32.167427",
+      "scores": {
+        "Communication": 10,
+        "Technical Skills": 9,
+        "Projects": 9,
+        "Problem Solving": 8,
+        "Cultural Fit": 10
+      },
+      "score": 9.2,
+      "feedback": ""
+    },
+    {
+      "id": "dzfbd",
+      "candidate_id": "dzfbd",
+      "roll": "dzfbd",
+      "name": "zsfbx",
+      "email": "zdbf",
+      "role": "dfb",
+      "position": "dfb",
+      "experience_years": 3.0,
+      "phone": "",
+      "notes": "rfbz",
+      "added_at": "2025-11-20T20:23:10.007651",
+      "scores": {
+        "Communication": 7,
+        "Technical Skills": 7,
+        "Projects": 7,
+        "Problem Solving": 7,
+        "Cultural Fit": 1
+      },
+      "score": 5.8,
+      "feedback": ""
+    },
+    {
+      "id": "dzfb",
+      "candidate_id": "dzfb",
+      "roll": "dzfb",
+      "name": "zdbf",
+      "email": "zdbf",
+      "role": "zdbf",
+      "position": "zdbf",
+      "experience_years": 35.0,
+      "phone": "",
+      "notes": "",
+      "added_at": "2025-11-20T20:25:54.032032",
+      "scores": {
+        "Communication": 5,
+        "Technical Skills": 5,
+        "Projects": 10,
+        "Problem Solving": 10,
+        "Cultural Fit": 10
+      },
+      "score": 8.0,
+      "feedback": ""
+    }
+  ],
+  "id": 12,
+  "custom_metrics": []
+}

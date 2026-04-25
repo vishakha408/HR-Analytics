@@ -1,0 +1,33 @@
+{
+  "name": "erg",
+  "date": "2025-11-20",
+  "interviewer": "dbgd",
+  "notes": "ebd",
+  "created_at": "2025-11-20T18:56:48.894335",
+  "candidates": [
+    {
+      "id": "1322",
+      "candidate_id": "1322",
+      "roll": "1322",
+      "name": "alice",
+      "email": "a@gmail.com",
+      "role": "sde",
+      "position": "sde",
+      "experience_years": 23.0,
+      "phone": "",
+      "notes": "sfv",
+      "added_at": "2025-11-20T18:57:28.955102",
+      "scores": {
+        "Communication": 2,
+        "Technical Skills": 2,
+        "Projects": 2,
+        "Problem Solving": 2,
+        "Cultural Fit": 2
+      },
+      "score": 2.0,
+      "feedback": ""
+    }
+  ],
+  "id": 1,
+  "custom_metrics": []
+}

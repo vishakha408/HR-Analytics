@@ -1,0 +1,77 @@
+{
+  "name": "new_session",
+  "date": "2025-11-16",
+  "interviewer": "new_i",
+  "notes": "findin the best",
+  "created_at": "2025-11-16T01:40:22.069000",
+  "candidates": [
+    {
+      "id": "rohankumar11",
+      "candidate_id": "rohankumar11",
+      "roll": "rohankumar11",
+      "name": "rohankumar11",
+      "email": "rohan@gmail.com",
+      "role": "sd1",
+      "position": "sd1",
+      "experience_years": 12.0,
+      "phone": "",
+      "notes": "",
+      "added_at": "2025-11-20T20:27:04.135390",
+      "scores": {
+        "Communication": 1,
+        "Technical Skills": 1,
+        "Projects": 3,
+        "Problem Solving": 3,
+        "Cultural Fit": 1
+      },
+      "score": 1.8,
+      "feedback": ""
+    },
+    {
+      "id": "rohankumar12",
+      "candidate_id": "rohankumar12",
+      "roll": "rohankumar12",
+      "name": "rohankumar12",
+      "email": "rohan2@gmail.com",
+      "role": "sde1",
+      "position": "sde1",
+      "experience_years": 8.0,
+      "phone": "",
+      "notes": "",
+      "added_at": "2025-11-20T20:28:27.788158",
+      "scores": {
+        "Communication": 10,
+        "Technical Skills": 0,
+        "Projects": 10,
+        "Problem Solving": 0,
+        "Cultural Fit": 10
+      },
+      "score": 6.0,
+      "feedback": ""
+    },
+    {
+      "id": "rohan13",
+      "candidate_id": "rohan13",
+      "roll": "rohan13",
+      "name": "rohan13",
+      "email": "rohan13@gmail.com",
+      "role": "sd1",
+      "position": "sd1",
+      "experience_years": 18.0,
+      "phone": "",
+      "notes": "",
+      "added_at": "2025-11-20T20:30:59.472515",
+      "scores": {
+        "Communication": 10,
+        "Technical Skills": 0,
+        "Projects": 0,
+        "Problem Solving": 1,
+        "Cultural Fit": 0
+      },
+      "score": 2.2,
+      "feedback": ""
+    }
+  ],
+  "custom_metrics": [],
+  "id": 17
+}

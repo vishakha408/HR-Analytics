@@ -1,0 +1,55 @@
+{
+  "name": "zdbg",
+  "date": "2025-11-20",
+  "interviewer": "dbfdz",
+  "notes": "zdbf",
+  "created_at": "2025-11-20T20:04:07.997962",
+  "candidates": [
+    {
+      "id": "123",
+      "candidate_id": "123",
+      "roll": "123",
+      "name": "wv",
+      "email": "wvrsd",
+      "role": "sv",
+      "position": "sv",
+      "experience_years": 548.0,
+      "phone": "",
+      "notes": "",
+      "added_at": "2025-11-20T20:05:03.170154",
+      "scores": {
+        "Communication": 3,
+        "Technical Skills": 3,
+        "Projects": 2,
+        "Problem Solving": 2,
+        "Cultural Fit": 2
+      },
+      "score": 2.4,
+      "feedback": ""
+    },
+    {
+      "id": "aegr",
+      "candidate_id": "aegr",
+      "roll": "aegr",
+      "name": "aegr",
+      "email": "aeg",
+      "role": "aegr",
+      "position": "aegr",
+      "experience_years": 5.0,
+      "phone": "",
+      "notes": "",
+      "added_at": "2025-11-20T20:05:47.207907",
+      "scores": {
+        "Communication": 10,
+        "Technical Skills": 1,
+        "Projects": 10,
+        "Problem Solving": 10,
+        "Cultural Fit": 8
+      },
+      "score": 7.8,
+      "feedback": ""
+    }
+  ],
+  "id": 4,
+  "custom_metrics": []
+}

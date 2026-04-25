@@ -1,0 +1,50 @@
+{
+  "name": "dgb",
+  "date": "2025-11-20",
+  "interviewer": "dbf",
+  "notes": "dbf",
+  "created_at": "2025-11-20T18:40:42.196784",
+  "candidates": [
+    {
+      "id": "1234",
+      "roll": "1234",
+      "name": "zdfb",
+      "email": "rohan@gmailc.om",
+      "position": "sde",
+      "experience_years": 21.0,
+      "phone": "",
+      "notes": "vwrgawgar",
+      "added_at": "2025-11-20T18:41:44.710944",
+      "scores": {
+        "Communication": 1,
+        "Technical Skills": 2,
+        "Projects": 2,
+        "Problem Solving": 3,
+        "Cultural Fit": 2
+      },
+      "score": 2.0,
+      "feedback": ""
+    },
+    {
+      "id": "902304",
+      "roll": "902304",
+      "name": "jonson",
+      "email": "suchit@gmail.com",
+      "position": "ai enginner",
+      "experience_years": 34.0,
+      "phone": "34834",
+      "notes": "",
+      "added_at": "2025-11-20T18:45:16.834412",
+      "scores": {
+        "Communication": 0,
+        "Technical Skills": 0,
+        "Projects": 2,
+        "Problem Solving": 1,
+        "Cultural Fit": 10
+      },
+      "score": 2.6,
+      "feedback": ""
+    }
+  ],
+  "custom_metrics": []
+}

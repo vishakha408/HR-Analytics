@@ -1,0 +1,30 @@
+{
+  "name": "rvce",
+  "date": "2025-11-20",
+  "interviewer": "rohan kumar",
+  "notes": "new session",
+  "created_at": "2025-11-20T18:31:22.641575",
+  "candidates": [
+    {
+      "id": "123",
+      "roll": "123",
+      "name": "rk",
+      "email": "ar@gmail.com",
+      "position": "sde",
+      "experience_years": 10.0,
+      "phone": "99494",
+      "notes": "first",
+      "added_at": "2025-11-20T18:32:14.236749",
+      "scores": {
+        "Communication": 5,
+        "Technical Skills": 5,
+        "Projects": 5,
+        "Problem Solving": 5,
+        "Cultural Fit": 5
+      },
+      "score": 5.0,
+      "feedback": ""
+    }
+  ],
+  "custom_metrics": []
+}

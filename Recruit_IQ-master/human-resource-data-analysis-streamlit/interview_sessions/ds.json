@@ -1,0 +1,20 @@
+{
+  "name": "ds",
+  "date": "2025-11-14",
+  "interviewer": "kumar",
+  "notes": "finding the best\n",
+  "created_at": "2025-11-14T01:59:54.920710",
+  "candidates": [
+    {
+      "id": 1,
+      "name": "um",
+      "email": "u@gmail.com",
+      "position": "senior executive",
+      "phone": "123344",
+      "notes": "best",
+      "added_at": "2025-11-14T02:00:22.025498",
+      "score": null,
+      "feedback": ""
+    }
+  ]
+}
