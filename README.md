@@ -4,7 +4,6 @@ In this `Data Analysis` project, we examine raw HR data to learn more about how 
 
 ## Features
 ⚡Multipage Interactive Dashboard  
-⚡Deployed on cloud [Report accessible on the web]  
 ⚡Streamlit  
 ⚡Plotly    
 ⚡Pandas    
