@@ -8,14 +8,6 @@ In this `Data Analysis` project, we examine raw HR data to learn more about how 
 ⚡Plotly    
 ⚡Pandas    
 
-## Table of Contents
-- [Introduction](#introduction) 
-- [Objective](#objective)
-- [Dataset](#dataset)
-- [Solution Approach](#solution-approach)
-- [How To Use](#how-to-use)
-
-
 ## Introduction
 * `Datamatrix-ml Inc.` is one of the top financial research firms, specializing in cutting-edge financial market research. It has over 1400 employees.
 * The HR department is actively gathering data through internal questionnaires, interviews, and HR employment records to evaluate the efficacy of the workforce given the human-centric aspect of the corporate work culture.
@@ -91,9 +83,6 @@ This dashboard looks at the company's capacity for employee retention and determ
  
 
 ## How To Use
-### Read-only direct access via the web (Recommended):
-and explore the fully functional interactive report. <br><br>
-
 ### Run the application locally:
 To run (and modify) the application locally follow below steps...
 1. Clone this repo
